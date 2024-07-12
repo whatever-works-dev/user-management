@@ -1,4 +1,4 @@
-# user-management
+# User management
 
 ## Case 
 
